@@ -1,0 +1,49 @@
+<mockup version="1.0" skin="sketch" measuredW="1109" measuredH="631" mockupW="1084" mockupH="627">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="25" y="4" w="1084" h="627" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20EDT</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::StickyNote" x="241" y="209" w="697" h="364" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16770457</color>
+        <italic>true</italic>
+        <size>16</size>
+        <text>%20%0A%20%0Ao%20Votre%20demande%20du%2024/12%20a%20%E9t%E9%20valid%E9e%0A%20%0Ao%20Votre%20cours%20de%20Statistiques%20du%2012/11/2013%20avec%20les%20IG4%20a%20%E9t%E9%20supprim%E9%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="299" y="127" w="724" h="30" measuredW="598" measuredH="33" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>6710886</color>
+        <italic>true</italic>
+        <size>24</size>
+        <text>Bienvenue%20sur%20l%27espace%20de%20gestion%20des%20emplois%20du%20temps</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HelpButton" x="1057" y="9" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::PointyButton" x="839" y="515" w="56" h="-1" measuredW="44" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16770457</color>
+        <direction>right</direction>
+        <italic>true</italic>
+        <menuIcon>false</menuIcon>
+        <text>Voir</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::ButtonBar" x="30" y="29" w="1064" h="41" measuredW="888" measuredH="30" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Accueil%2C%20Demandes%2C%20Supprimer%20une%20s%E9ance%2C%20Plannings%2C%20Disponibilit%E9s%20des%20salles%2C%20Etat%20de%20mon%20service%2C%20Deconnexion</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="sketch" measuredW="1109" measuredH="631" mockupW="1084" mockupH="627">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="25" y="4" w="1084" h="627" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20EDT</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HelpButton" x="1057" y="9" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="30" y="29" w="1064" h="41" measuredW="888" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <size>14</size>
+        <text>Accueil%2C%20Demandes%2C%20Supprimer%20une%20s%E9ance%2C%20Plannings%2C%20Disponibilit%E9s%20des%20salles%2C%20Etat%20de%20mon%20service%2C%20Deconnexion</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TabBar" x="58" y="86" w="1028" h="519" measuredW="350" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <selectedIndex>0</selectedIndex>
+        <text>Mes%20demandes%2C%20Faire%20une%20nouvelle%20demande</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::DataGrid" x="57" y="114" w="1036" h="497" measuredW="620" measuredH="187" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <alternateRowColor>15594478</alternateRowColor>
+        <borderStyle>square</borderStyle>
+        <hasHeader>true</hasHeader>
+        <hLines>false</hLines>
+        <rowHeight>54</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Demande%20%2C%20Date%20demande%2C%20Statut%0ASalle%20TD%20pour%20IG%204%20Groupe%201%20le%2017/12/2013%20de%208h%20%E0%209h30%2C%2010/11/2013%2C%20En-cours%0ASalle%20Cours%20avec%20r%E9troprojecteur%20pour%20IG%204%20le%2019/12/2013%20de%208h%20%E0%209h30%2C%203/11/2013%2C%20Valid%E9e%0A%20%0A%7B75L%2C%200R%2C%2025%2C%200C%7D</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+        <vLines>true</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="982" y="148" w="60" h="-1" measuredW="81" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <borderStyle>none</borderStyle>
+        <color>6684672</color>
+        <icon>XIcon%7Csmall</icon>
+        <italic>false</italic>
+        <labelPosition>right</labelPosition>
+        <size>11</size>
+        <text>supprimer</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="982" y="203" w="60" h="-1" measuredW="81" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <borderStyle>none</borderStyle>
+        <color>6684672</color>
+        <icon>XIcon%7Csmall</icon>
+        <italic>false</italic>
+        <labelPosition>right</labelPosition>
+        <size>11</size>
+        <text>supprimer</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

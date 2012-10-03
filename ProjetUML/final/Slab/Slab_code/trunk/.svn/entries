@@ -1,0 +1,52 @@
+10
+
+dir
+137
+http://subversion.assembla.com/svn/gestionedt/trunk
+http://subversion.assembla.com/svn/gestionedt
+
+
+
+2012-03-22T20:39:09.388987Z
+137
+dellgcy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ad4bb2a3-61ce-4046-a1c3-645dcd569256
+
+test
+dir
+
+gestionnairesBD
+dir
+
+gui
+dir
+
+gestionnaireFile
+dir
+
+bin
+dir
+
+bl
+dir
+
+logic
+dir
+
+exceptionsEDT
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/gestionedt/!svn/ver/108/trunk/exceptionsEDT
+END
+CaracteristiqueIntrouvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gestionedt/!svn/ver/108/trunk/exceptionsEDT/CaracteristiqueIntrouvableException.java
+END
+DateIncorrecteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gestionedt/!svn/ver/98/trunk/exceptionsEDT/DateIncorrecteException.java
+END
+SalleIntrouvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gestionedt/!svn/ver/98/trunk/exceptionsEDT/SalleIntrouvableException.java
+END
+EnseignementIntrouvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gestionedt/!svn/ver/98/trunk/exceptionsEDT/EnseignementIntrouvableException.java
+END
+CreneauIntrouvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gestionedt/!svn/ver/98/trunk/exceptionsEDT/CreneauIntrouvableException.java
+END

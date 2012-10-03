@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/gestionedt/!svn/ver/134/trunk/gestionnairesBD
+END
+GestionnaireSessionBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireSessionBD.java
+END
+GestionnaireEnseignementsBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireEnseignementsBD.java
+END
+GestionnaireGroupesBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireGroupesBD.java
+END
+GestionnaireReservationsBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gestionedt/!svn/ver/134/trunk/gestionnairesBD/GestionnaireReservationsBD.java
+END
+GestionnaireNotificationsBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireNotificationsBD.java
+END
+GestionnaireCreneauxBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireCreneauxBD.java
+END
+GestionnaireCaracteristiquesBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireCaracteristiquesBD.java
+END
+GestionnaireEnseignantsBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireEnseignantsBD.java
+END
+FactoryBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/FactoryBD.java
+END
+GestionnaireBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireBD.java
+END
+GestionnaireSalleBD.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gestionedt/!svn/ver/130/trunk/gestionnairesBD/GestionnaireSalleBD.java
+END

@@ -1,0 +1,119 @@
+<mockup version="1.0" skin="sketch" measuredW="1109" measuredH="631" mockupW="1084" mockupH="627">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="25" y="4" w="1084" h="627" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20EDT</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HelpButton" x="1057" y="9" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="30" y="29" w="1064" h="41" measuredW="888" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <size>14</size>
+        <text>Accueil%2C%20Demandes%2C%20Supprimer%20une%20s%E9ance%2C%20Plannings%2C%20Disponibilit%E9s%20des%20salles%2C%20Etat%20de%20mon%20service%2C%20Deconnexion</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="58" y="86" w="1028" h="519" measuredW="350" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <selectedIndex>1</selectedIndex>
+        <text>Mes%20demandes%2C%20Faire%20une%20nouvelle%20demande</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="58" y="123" w="1028" h="482" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <color>11982760</color>
+        <text>S%E9lection</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="73" y="381" w="167" h="142" measuredW="100" measuredH="126" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Salle%20cours%0AR%E9troprojecteur</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="73" y="157" w="167" h="-1" measuredW="177" measuredH="50" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GearIcon%7Clarge</icon>
+        <text>Caract%E9ristiques</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="261" y="157" w="182" h="-1" measuredW="132" measuredH="50" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ClockIcon%7Clarge</icon>
+        <text>Cr%E9neau</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::List" x="261" y="381" w="182" h="142" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <color>16777215</color>
+        <size>14</size>
+        <text>8h%20-%209h%2030</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="467" y="157" w="181" h="-1" measuredW="111" measuredH="50" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CalendarIcon%7Clarge</icon>
+        <text>Date</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Calendar" x="512" y="390" w="91" h="110" measuredW="96" measuredH="96" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="675" y="157" w="180" h="-1" measuredW="134" measuredH="50" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactsIcon%7Clarge</icon>
+        <text>Etudiants</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::List" x="675" y="381" w="180" h="142" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <color>16777215</color>
+        <size>14</size>
+        <text>IG%204%20classe%20enti%E8re</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="883" y="157" w="181" h="-1" measuredW="127" measuredH="50" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>BookIcon%7Clarge</icon>
+        <text>Mati%E8re</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::List" x="883" y="381" w="180" h="142" measuredW="100" measuredH="126" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Statistiques%202%20TD</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="885" y="550" w="179" h="42" measuredW="71" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Envoyer</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::List" x="74" y="205" w="166" h="138" measuredW="100" measuredH="128" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>R%E9troprojecteur%0AOrdinateur%0ATableau%20int%E9ractif%0A.%0A.%0A.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="73" y="354" w="-1" h="-1" measuredW="85" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20demande%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HRule" x="160" y="362" w="900" h="-1" measuredW="100" measuredH="5" zOrder="18" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

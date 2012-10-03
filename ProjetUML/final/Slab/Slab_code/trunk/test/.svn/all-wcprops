@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/gestionedt/!svn/ver/138/trunk/test
+END
+TestLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gestionedt/!svn/ver/138/trunk/test/TestLogin.java
+END
+TestCreneaux.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gestionedt/!svn/ver/138/trunk/test/TestCreneaux.java
+END
+TestCaracteristiques.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gestionedt/!svn/ver/138/trunk/test/TestCaracteristiques.java
+END

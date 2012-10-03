@@ -1,0 +1,92 @@
+<listeEnseignants>
+  <enseignant>
+    <nom>Laurent</nom>
+    <prenom>Anne</prenom>
+    <super>0</super>
+    <pass>anne</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Fallery</nom>
+    <prenom>Bernard</prenom>
+    <super>0</super>
+    <pass>bernard</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Bourdon</nom>
+    <prenom>Isabelle</prenom>
+    <super>0</super>
+    <pass>isabelle</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Buisson</nom>
+    <prenom>Lysianne</prenom>
+    <super>0</super>
+    <pass>lysianne</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Cart</nom>
+    <prenom>Michelle</prenom>
+    <super>0</super>
+    <pass>michelle</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Ruiz</nom>
+    <prenom>Jacque</prenom>
+    <super>0</super>
+    <pass>jacque</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Izard</nom>
+    <prenom>Thomas</prenom>
+    <super>0</super>
+    <pass>thomas</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Pacitti</nom>
+    <prenom>Esther</prenom>
+    <super>0</super>
+    <pass>esther</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Seguin</nom>
+    <prenom>Corinne</prenom>
+    <super>0</super>
+    <pass>corinne</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>De Lauzun</nom>
+    <prenom>Anne-Laure</prenom>
+    <super>1</super>
+    <pass>anne-laure</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Stratulat</nom>
+    <prenom>Tiberiu</prenom>
+    <super>1</super>
+    <pass>tiberiu</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Sala</nom>
+    <prenom>Michel</prenom>
+    <super>0</super>
+    <pass>michel</pass>
+  </enseignant>
+
+  <enseignant>
+    <nom>Dulas</nom>
+    <prenom>Marc</prenom>
+    <super>0</super>
+    <pass>marc</pass>
+  </enseignant>
+<listeEnseignants/>

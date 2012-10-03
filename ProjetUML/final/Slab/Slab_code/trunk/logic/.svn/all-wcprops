@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/gestionedt/!svn/ver/131/trunk/logic
+END
+Salle.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gestionedt/!svn/ver/131/trunk/logic/Salle.java
+END
+Groupe.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gestionedt/!svn/ver/131/trunk/logic/Groupe.java
+END
+Reservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/gestionedt/!svn/ver/131/trunk/logic/Reservation.java
+END
+Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gestionedt/!svn/ver/131/trunk/logic/Facade.java
+END
+Test_temp.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gestionedt/!svn/ver/131/trunk/logic/Test_temp.java
+END
+SuperGestionnaire.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gestionedt/!svn/ver/131/trunk/logic/SuperGestionnaire.java
+END
+Heure.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/gestionedt/!svn/ver/131/trunk/logic/Heure.java
+END
+GestionnaireSalle.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireSalle.java
+END
+GestionnaireEnseignements.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireEnseignements.java
+END
+GestionnaireNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireNotifications.java
+END
+Enseignement.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gestionedt/!svn/ver/131/trunk/logic/Enseignement.java
+END
+GestionnaireCreneaux.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireCreneaux.java
+END
+Creneau.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/gestionedt/!svn/ver/131/trunk/logic/Creneau.java
+END
+GestionnaireCaracteristiques.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireCaracteristiques.java
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/gestionedt/!svn/ver/131/trunk/logic/MainTest.java
+END
+Notification.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/gestionedt/!svn/ver/131/trunk/logic/Notification.java
+END
+GestionnaireEnseignants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireEnseignants.java
+END
+Evenement.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gestionedt/!svn/ver/131/trunk/logic/Evenement.java
+END
+Disponible.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/gestionedt/!svn/ver/82/trunk/logic/Disponible.java
+END
+Caracteristique.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gestionedt/!svn/ver/131/trunk/logic/Caracteristique.java
+END
+AbstractFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/gestionedt/!svn/ver/109/trunk/logic/AbstractFactory.java
+END
+Enseignant.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gestionedt/!svn/ver/131/trunk/logic/Enseignant.java
+END
+GestionnaireSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireSession.java
+END
+GestionnaireGroupes.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireGroupes.java
+END
+GestionnaireReservations.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/gestionedt/!svn/ver/131/trunk/logic/GestionnaireReservations.java
+END
+Seance.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/gestionedt/!svn/ver/131/trunk/logic/Seance.java
+END

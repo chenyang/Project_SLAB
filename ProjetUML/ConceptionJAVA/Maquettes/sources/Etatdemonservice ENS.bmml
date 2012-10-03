@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" measuredW="1109" measuredH="631" mockupW="1084" mockupH="627">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="25" y="4" w="1084" h="627" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Gestion%20EDT</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::HelpButton" x="1057" y="9" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="30" y="29" w="1064" h="41" measuredW="888" measuredH="30" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>5</selectedIndex>
+        <size>14</size>
+        <text>Accueil%2C%20Demandes%2C%20Supprimer%20une%20s%E9ance%2C%20Plannings%2C%20Disponibilit%E9s%20des%20salles%2C%20Etat%20de%20mon%20service%2C%20Deconnexion</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="40" y="85" w="1055" h="531" measuredW="581" measuredH="158" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15594478</alternateRowColor>
+        <rowHeight>33</rowHeight>
+        <size>14</size>
+        <text>Mati%E8re%2C%20Type%2C%20%20Etudiants%2C%20Heures%20%E0%20faire%2C%20Heures%20programm%E9es%2C%20Heures%20faites%0AStatistiques%202%2C%20Cours%2C%20IG%204%2C%2052%2C%2050%2C%2022%0AStatistiques%202%2C%20TD%2C%20IG4%2C%2020%2C20%2C20%0AStatistiques%201%2C%20Cours%2C%20IG%203%2C%2052%2C%2050%2C%2022%0AStatistiques%201%2C%20TD%2C%20IG3%2C%2020%2C20%2C20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
